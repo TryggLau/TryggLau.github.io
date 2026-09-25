@@ -44,13 +44,10 @@ footer {
   text-decoration: none;
 }
 .brand-mark {
-  display: grid;
   width: 34px;
   height: 34px;
-  place-items: center;
-  border-radius: 9px;
-  background: var(--ink);
-  color: var(--accent);
+  border-radius: 50%;
+  object-fit: cover;
 }
 nav { display: flex; gap: 30px; }
 nav a {
