@@ -145,6 +145,7 @@ h3 { font-size: 1.65rem; }
 .contact p:not(.eyebrow) { color: var(--muted); font-size: 1.2rem; }
 .button-contact { margin-top: 18px; background: var(--ink); color: var(--white); }
 .button-contact:hover { background: #252d43; }
+.contact-email { display: block; width: fit-content; margin: 16px auto 0; color: var(--muted); font-weight: 750; text-underline-offset: 4px; }
 
 footer { display: flex; justify-content: space-between; padding: 26px 0 40px; border-top: 1px solid var(--line); color: var(--muted); font-size: .9rem; }
 footer a { font-weight: 750; }
